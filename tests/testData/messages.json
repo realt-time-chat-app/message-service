@@ -1,0 +1,28 @@
+{
+  "validMessage": {
+    "id": "msg1",
+    "senderId": "user1",
+    "recipientId": "user2",
+    "content": "Hello there!",
+    "conversationId": "user1-user2",
+    "timestamp": "2025-01-26T12:00:00Z"
+  },
+  "conversationMessages": [
+    {
+      "id": "msg1",
+      "senderId": "user1",
+      "recipientId": "user2",
+      "content": "Hello there!",
+      "conversationId": "user1-user2",
+      "timestamp": "2025-01-26T12:00:00Z"
+    },
+    {
+      "id": "msg2",
+      "senderId": "user2",
+      "recipientId": "user1",
+      "content": "Hi! How are you?",
+      "conversationId": "user1-user2",
+      "timestamp": "2025-01-26T12:05:00Z"
+    }
+  ]
+}
